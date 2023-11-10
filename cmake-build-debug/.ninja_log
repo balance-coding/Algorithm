@@ -1,0 +1,9 @@
+# ninja log v5
+1	1563	7213041365645389	CMakeFiles/Algorithm_C__.dir/main.cpp.obj	5bad5e0cce5fa512
+1449	1545	7213047715154023	Algorithm_C__.exe	cdf1e7eab524f6e1
+0	1448	7213047714215793	CMakeFiles/Algorithm_C__.dir/array_test.cpp.obj	14c4733ba4a00767
+1	134	7213047751800109	build.ninja	30df95248c47c401
+3	1540	7213049046159735	CMakeFiles/Algorithm_C__.dir/array_test.cpp.obj	14c4733ba4a00767
+1540	1634	7213049047062446	Algorithm_C__.exe	cdf1e7eab524f6e1
+3	1460	7213049518373429	CMakeFiles/Algorithm_C__.dir/array_test.cpp.obj	14c4733ba4a00767
+1460	1556	7213049519299123	Algorithm_C__.exe	cdf1e7eab524f6e1
