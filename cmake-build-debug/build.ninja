@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Algorithm_C++/cmake-build-debug/
 
 build cmake_object_order_depends_target_Algorithm_C__: phony || CMakeFiles/Algorithm_C__.dir
 
-build CMakeFiles/Algorithm_C__.dir/array_test.cpp.obj: CXX_COMPILER__Algorithm_C___unscanned_Debug C$:/Algorithm_C++/array_test.cpp || cmake_object_order_depends_target_Algorithm_C__
-  DEP_FILE = CMakeFiles\Algorithm_C__.dir\array_test.cpp.obj.d
+build CMakeFiles/Algorithm_C__.dir/main.cpp.obj: CXX_COMPILER__Algorithm_C___unscanned_Debug C$:/Algorithm_C++/main.cpp || cmake_object_order_depends_target_Algorithm_C__
+  DEP_FILE = CMakeFiles\Algorithm_C__.dir\main.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Algorithm_C__.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm_C__.dir
@@ -63,7 +63,7 @@ build CMakeFiles/Algorithm_C__.dir/array_test.cpp.obj: CXX_COMPILER__Algorithm_C
 #############################################
 # Link the executable Algorithm_C__.exe
 
-build Algorithm_C__.exe: CXX_EXECUTABLE_LINKER__Algorithm_C___Debug CMakeFiles/Algorithm_C__.dir/array_test.cpp.obj
+build Algorithm_C__.exe: CXX_EXECUTABLE_LINKER__Algorithm_C___Debug CMakeFiles/Algorithm_C__.dir/main.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Algorithm_C__.dir
